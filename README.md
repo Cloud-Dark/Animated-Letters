@@ -1,8 +1,7 @@
 # Animated Letters
 
 A plugin that animates an artistic font using Segment, the SVG strokes animation library. By Luis Manuel.
-
-[Article on Codrops](http://tympanus.net/codrops/?p=26057)
+Recode & Reupload From Cloud Dark :D
 
 [Demo](http://tympanus.net/Development/AnimatedLetters/)
 
